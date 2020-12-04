@@ -1,1 +1,1 @@
-# Simple express Api for inserting, fetching data to the database..
+# Simple express API for inserting, fetching data to the database..
